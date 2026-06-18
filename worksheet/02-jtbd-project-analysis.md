@@ -9,7 +9,7 @@ companion-reference: Strategyn_JTBD_Playbook.pdf (giảng viên gửi kèm)
 
 # Lab 2 — JTBD Project Analysis / Dùng JTBD để soi lại dự án nhóm
 
-**Tên dự án / sản phẩm:** _______________  
+**Tên dự án / sản phẩm:** AI Phân Tích Hợp Đồng Mua Bán & Cho Thuê BĐS - Cảnh Báo Điều Khoản  
 
 > Đây là **file duy nhất** của Lab 2.  
 > File này đồng thời đóng vai trò:
@@ -92,17 +92,17 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Khoanh đúng 1 lát cắt theo 4 điểm
 
-- [ ] **1 nhóm người dùng chính**
-- [ ] **1 hoàn cảnh / tình huống rõ**
-- [ ] **1 job cốt lõi**
-- [ ] **1 workflow đủ cụ thể để vẽ ra được**
+- [x] **1 nhóm người dùng chính**
+- [x] **1 hoàn cảnh / tình huống rõ**
+- [x] **1 job cốt lõi**
+- [x] **1 workflow đủ cụ thể để vẽ ra được**
 
 ### Điền nhanh trước khi làm
 
-- **Dự án của nhóm tôi là:** ___________________________________
-- **Lát cắt tôi chọn để phân tích hôm nay là:** ___________________________________
+- **Dự án của nhóm tôi là:** AI phân tích hợp đồng mua bán và cho thuê BĐS, tóm tắt quyền/nghĩa vụ và cảnh báo điều khoản bất lợi trước khi ký.
+- **Lát cắt tôi chọn để phân tích hôm nay là:** Người mua/thuê BĐS cá nhân nhận bản hợp đồng từ bên bán, chủ nhà hoặc chủ đầu tư và cần hiểu rủi ro trước khi quyết định ký.
 - **Vì sao tôi chọn lát cắt này:**  
-  > ___________________________________
+  > Đây là lát cắt có pain rõ nhất: người mua/thuê là người trực tiếp chịu hậu quả nếu hiểu sai điều khoản về tiền cọc, thanh toán, phạt, bàn giao, gia hạn hoặc chấm dứt hợp đồng. Họ thường không chuyên pháp lý, không phải giao dịch nào cũng đủ lớn để thuê luật sư ngay, nhưng vẫn cần một cách kiểm tra nhanh và dễ hiểu trước khi ký.
 
 ### Viết quá rộng vs viết sắc hơn
 
@@ -121,13 +121,13 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Tóm tắt dự án trong 3 dòng
 
 1. **Nhóm tôi đang nghĩ mình đang giải quyết vấn đề gì?**  
-   > ___________________________________
+   > Hợp đồng mua bán/cho thuê BĐS thường dài, nhiều thuật ngữ pháp lý và chứa các điều kiện ràng buộc quan trọng. Người mua/thuê dễ ký khi chưa hiểu hết nghĩa vụ, mốc thời gian, điều khoản phạt hoặc trách nhiệm bàn giao.
 
 2. **Người dùng chính hiện nhóm đang nhắm tới là ai?**  
-   > ___________________________________
+   > Người mua/thuê BĐS cá nhân trước khi ký hợp đồng, đặc biệt là người không có nền tảng pháp lý và cần tự kiểm tra hợp đồng trong thời gian ngắn.
 
 3. **Hiện tại người dùng đó đang giải quyết vấn đề này bằng cách nào?**  
-   > ___________________________________
+   > Họ tự đọc hợp đồng, hỏi môi giới/chủ nhà/người quen, tìm mẫu hợp đồng trên mạng, hỏi ChatGPT tổng quát, thuê luật sư nếu giao dịch lớn, hoặc trong nhiều trường hợp ký theo niềm tin mà không kiểm tra kỹ.
 
 ---
 
@@ -139,21 +139,21 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 ### Trả lời 4 câu ngắn
 
 1. **Ai đang gặp vấn đề này?**  
-   > ___________________________________
+   > Người mua/thuê BĐS cá nhân đang chuẩn bị ký hợp đồng mua bán, đặt cọc hoặc thuê nhà/căn hộ.
 
 2. **Vấn đề xuất hiện trong hoàn cảnh nào?**  
-   > ___________________________________
+   > Vấn đề xuất hiện khi họ nhận hợp đồng dài từ bên bán, chủ nhà hoặc chủ đầu tư và bị thúc ép ký nhanh để giữ chỗ, giữ giá, nhận nhà hoặc hoàn tất giao dịch.
 
 3. **Hiện tại họ đang dùng giải pháp thay thế nào?**  
-   > ___________________________________
+   > Tự đọc thủ công, hỏi môi giới/người quen, tìm checklist trên mạng, dùng AI tổng quát, hoặc thuê luật sư khi giá trị giao dịch đủ lớn.
 
 4. **Vì sao đây là thời điểm đáng giải?**  
-   > ___________________________________
+   > Người dùng đã quen dùng AI để đọc và tóm tắt tài liệu dài, nhưng với hợp đồng BĐS họ vẫn cần một lớp giải thích có cấu trúc, chỉ rõ điều khoản rủi ro, trích dẫn lại phần hợp đồng liên quan và nhắc rằng giao dịch lớn cần tham vấn pháp lý.
 
 ### Tóm tắt market context trong 3-4 dòng
 
-> _______________________________________________  
-> _______________________________________________
+> Người mua/thuê BĐS cá nhân thường phải ra quyết định ký trong bối cảnh bất cân xứng thông tin: bên soạn hợp đồng hiểu điều khoản tốt hơn, còn người ký chỉ đọc vội và khó biết điều gì bất lợi.  
+> Các giải pháp hiện tại hoặc quá thủ công, hoặc phụ thuộc vào người có thể có xung đột lợi ích như môi giới, hoặc tốn chi phí như luật sư. Vì vậy, cơ hội của dự án nằm ở việc giúp người dùng hiểu nhanh quyền, nghĩa vụ, mốc thời gian và điểm cần hỏi lại trước khi ký.
 
 ---
 
@@ -174,9 +174,9 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### Điền
 
-- **Job executor của dự án này là:** ___________________________________
+- **Job executor của dự án này là:** Người mua/thuê BĐS cá nhân trước khi ký hợp đồng.
 - **Vì sao tôi tin đây là người trực tiếp "thuê" giải pháp để làm job:**  
-  > ___________________________________
+  > Đây là người trực tiếp đọc hợp đồng, quyết định có ký hay không, chịu nghĩa vụ thanh toán/cọc/bàn giao và chịu thiệt hại nếu bỏ sót điều khoản bất lợi. Bộ phận pháp chế hoặc luật sư có thể là người hỗ trợ, nhưng trong lát cắt này họ không phải người trực tiếp cố hoàn thành job.
 
 ---
 
@@ -200,23 +200,23 @@ Phần lớn dự án nhóm viết quá rộng ở bước này, rồi sau đó 
 
 ### 3 tiêu chí tự kiểm
 
-- [ ] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
-- [ ] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
-- [ ] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
+- [x] Nếu bỏ tool hiện tại đi, job này vẫn còn tồn tại
+- [x] Trong câu không có tên sản phẩm, AI, chatbot, app, màn hình
+- [x] Câu đang mô tả **điều user muốn hoàn thành**, không phải thứ product đang làm
 
 ### Bản nháp 1
 
 **Core JTBD bản nháp:**  
-> _______________________________________________
+> Hiểu hợp đồng BĐS trước khi ký để tránh bỏ sót nghĩa vụ, mốc thời gian và điều khoản bất lợi.
 
 ### Gạch bỏ từ solution nếu có
 
-- Các từ solution tôi đang lỡ nhét vào câu: _________________________________
+- Các từ solution tôi đang lỡ nhét vào câu: Không dùng các từ như AI, chatbot, app, upload, phân tích tự động trong câu JTBD cuối.
 
 ### Bản chốt
 
 **Core JTBD cuối cùng:**  
-> _______________________________________________
+> Đánh giá các nghĩa vụ, mốc thời gian và điều khoản bất lợi trong hợp đồng BĐS trước khi quyết định ký.
 
 ---
 
@@ -239,15 +239,15 @@ When [trigger], I want to [motivation], so I can [outcome].
 
 | # | Trigger / When | Motivation / I want to | Outcome / so I can | Điều story này cho thấy |
 |---|---|---|---|---|
-| JS1 | | | | |
-| JS2 | | | | |
-| JS3 | | | | |
+| JS1 | Khi tôi nhận hợp đồng thuê nhà/căn hộ và chủ nhà yêu cầu đặt cọc sớm | Tôi muốn hiểu rõ điều kiện mất cọc, thời hạn thuê, gia hạn và chấm dứt hợp đồng | Tôi có thể quyết định đặt cọc hay hỏi lại trước khi bị ràng buộc | Pain xuất hiện ngay trước thời điểm ký/đặt cọc, khi áp lực thời gian cao |
+| JS2 | Khi tôi chuẩn bị ký hợp đồng mua căn hộ với nhiều đợt thanh toán | Tôi muốn biết từng mốc thanh toán, điều kiện bàn giao và khoản phạt nếu một bên chậm thực hiện | Tôi có thể đánh giá mình có đủ khả năng và rủi ro tài chính không | Người dùng cần biến hợp đồng dài thành lịch nghĩa vụ rõ ràng |
+| JS3 | Khi tôi thấy hợp đồng có nhiều điều khoản pháp lý khó hiểu về phạt, sửa chữa, bàn giao hoặc chấm dứt | Tôi muốn được giải thích bằng ngôn ngữ thường và biết điều khoản nào cần hỏi lại | Tôi có thể đàm phán hoặc xin tư vấn pháp lý trước khi ký | Giá trị không chỉ là tóm tắt, mà là phát hiện điểm bất lợi tiềm ẩn |
 
 ### Tự kiểm nhanh
 
-- [ ] Mỗi story là một **tình huống thật**, không phải slogan chung chung
-- [ ] 3 story không trùng hệt nhau
-- [ ] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
+- [x] Mỗi story là một **tình huống thật**, không phải slogan chung chung
+- [x] 3 story không trùng hệt nhau
+- [x] Sau khi đọc 3 story, tôi hình dung được lúc nào product của mình đáng xuất hiện
 
 ---
 
@@ -268,14 +268,15 @@ Qua JTBD lens, đối thủ không chỉ là app cùng ngành.
 
 | Alternative hiện tại | User đang thuê nó để làm gì? | Nó làm tốt gì? | Nó fail ở đâu? | Switching cost hiện tại cao hay thấp? |
 |---|---|---|---|---|
-| Alt 1 | | | | |
-| Alt 2 | | | | |
-| Alt 3 | | | | |
+| Tự đọc hợp đồng thủ công | Tìm các điều khoản về tiền, cọc, phạt, bàn giao, gia hạn/chấm dứt | Không tốn tiền, chủ động, có thể làm ngay | Dễ bỏ sót điều khoản quan trọng, khó hiểu thuật ngữ pháp lý, mất nhiều thời gian | Thấp |
+| Hỏi môi giới/chủ nhà/người quen | Nhờ người khác giải thích nhanh các điểm chưa hiểu | Nhanh, tiện, có ngữ cảnh giao dịch | Có thể thiên lệch, không chịu trách nhiệm pháp lý, không đọc kỹ toàn bộ hợp đồng | Thấp |
+| Thuê luật sư hoặc tư vấn pháp lý | Kiểm tra rủi ro hợp đồng và đề xuất sửa điều khoản | Đáng tin hơn, phù hợp giao dịch lớn, có chuyên môn | Tốn chi phí, mất thời gian, không phải ai cũng biết thuê ai | Cao |
+| Dùng ChatGPT/AI tổng quát | Tóm tắt hợp đồng và hỏi nghĩa của điều khoản | Nhanh, quen thuộc, chi phí thấp | Có thể trả lời thiếu căn cứ, không có checklist BĐS, dễ khiến người dùng tin quá mức | Thấp |
 
 ### Kết luận nhanh
 
 **Nếu project của tôi biến mất hôm nay, user nhiều khả năng sẽ quay về:**  
-> _______________________________________________
+> Tự đọc hợp đồng rồi hỏi thêm môi giới/người quen hoặc dùng ChatGPT tổng quát; với giao dịch giá trị lớn thì mới cân nhắc thuê luật sư.
 
 ---
 
@@ -310,23 +311,23 @@ Mục tiêu là nhìn ra:
 
 | Step | Trong workflow này user đang cố làm gì? | Hôm nay họ đang dùng gì? | Friction / pain hiện tại | Mức đau |
 |---|---|---|---|---|
-| Define | | | | Low / Med / High |
-| Locate | | | | Low / Med / High |
-| Prepare | | | | Low / Med / High |
-| Confirm | | | | Low / Med / High |
-| Execute | | | | Low / Med / High |
-| Monitor | | | | Low / Med / High |
-| Modify | | | | Low / Med / High |
-| Conclude | | | | Low / Med / High |
+| Define | Xác định mình cần kiểm tra gì trước khi ký: tiền, cọc, phạt, bàn giao, gia hạn/chấm dứt | Checklist cá nhân, hỏi người quen, tìm Google | Không biết điều khoản nào thật sự quan trọng với loại hợp đồng này | Med |
+| Locate | Tìm đúng các điều khoản liên quan trong hợp đồng và phụ lục | Đọc thủ công, Ctrl+F, hỏi người soạn hợp đồng | Hợp đồng dài, thuật ngữ rải rác, điều khoản quan trọng có thể nằm ở phụ lục hoặc đoạn nhỏ | High |
+| Prepare | Gom hợp đồng, phụ lục, lịch thanh toán, thông tin căn nhà/căn hộ | File PDF/Word, ảnh chụp, tin nhắn/email | Tài liệu phân tán, bản hợp đồng có thể chưa phải bản cuối | Med |
+| Confirm | Xác nhận mình hiểu đúng nghĩa vụ, rủi ro và hệ quả nếu vi phạm | Tự suy luận, hỏi môi giới/người quen, hỏi AI tổng quát | Dễ hiểu sai ngôn ngữ pháp lý hoặc không thấy rủi ro ẩn phía sau câu chữ | High |
+| Execute | Trao đổi, yêu cầu sửa/làm rõ hoặc quyết định ký | Gọi điện, nhắn tin, ghi chú tay | Người dùng thiếu câu hỏi cụ thể để hỏi lại và dễ ngại đàm phán | Med |
+| Monitor | Theo dõi mốc thanh toán, bàn giao, gia hạn, thông báo trước khi chấm dứt | Lịch cá nhân, tin nhắn, file hợp đồng | Sau khi ký dễ quên mốc hoặc điều kiện cần làm đúng hạn | Med |
+| Modify | Yêu cầu chỉnh điều khoản hoặc bổ sung cam kết trước khi ký | Gửi comment trong file, nhắn tin, nhờ người quen xem | Không biết nên sửa câu nào và sửa theo hướng nào là hợp lý | Med |
+| Conclude | Lưu bản cuối và ghi lại các cam kết cần theo dõi sau ký | Lưu file, ảnh chụp, email | Dễ mất dấu bản cuối hoặc quên khác biệt giữa bản nháp và bản đã ký | Low |
 
 ### Chốt 2 bước đau nhất
 
-**Bước đau nhất #1:** _________________________________  
-**Bước đau nhất #2:** _________________________________
+**Bước đau nhất #1:** Locate - tìm đúng điều khoản quan trọng trong hợp đồng dài và phụ lục.  
+**Bước đau nhất #2:** Confirm - hiểu đúng nghĩa vụ, hệ quả và điểm bất lợi trước khi ký.
 
 **Vì sao đây là nơi đáng chú ý nhất:**  
-> _______________________________________________  
-> _______________________________________________
+> Đây là nơi người dùng cá nhân yếu nhất: họ không biết phải nhìn vào đâu và không chắc mình hiểu đúng điều khoản đã đọc.  
+> Nếu bỏ sót ở hai bước này, các bước sau như đàm phán, ký, theo dõi mốc thanh toán hoặc bàn giao đều có thể đi sai ngay từ đầu.
 
 ---
 
@@ -345,16 +346,16 @@ Sau khi map workflow, mới hỏi:
 
 | Step | AI nên giúp bằng cách nào? | Vì sao AI hợp ở đây? | Rủi ro chính nếu dùng AI |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
+| Locate | Đọc hợp đồng, nhận diện và trích lại điều khoản về tiền cọc, thanh toán, phạt, bàn giao, gia hạn, chấm dứt và trách nhiệm các bên | AI mạnh ở việc đọc tài liệu dài, phân loại nội dung và kéo các đoạn liên quan về một checklist dễ xem | Có thể bỏ sót điều khoản nếu file thiếu trang, OCR sai hoặc hợp đồng viết vòng vo |
+| Confirm | Giải thích điều khoản bằng ngôn ngữ thường, nêu rủi ro bất lợi, tóm tắt mốc thời gian và gợi ý câu hỏi cần làm rõ trước khi ký | AI giúp chuyển ngôn ngữ pháp lý thành ngôn ngữ dễ hiểu và hỗ trợ người dùng chuẩn bị câu hỏi cụ thể | Người dùng có thể tin AI như tư vấn pháp lý chính thức; cần cảnh báo tham vấn luật sư cho giao dịch lớn |
 
 ### Kết luận nhanh
 
 **AI leverage point quan trọng nhất của dự án tôi là:**  
-> _______________________________________________
+> Giúp người mua/thuê nhanh chóng tìm và hiểu các điều khoản rủi ro trong hợp đồng BĐS trước khi ký, kèm trích dẫn điều khoản gốc và câu hỏi cần làm rõ.
 
 **Vì sao không phải ở bước khác:**  
-> _______________________________________________
+> Vì pain lớn nhất nằm trước khi ký: nếu người dùng không tìm thấy và không hiểu đúng điều khoản quan trọng, việc theo dõi sau ký hay lưu trữ hợp đồng chỉ là xử lý hậu quả. AI nên xuất hiện sớm ở bước Locate và Confirm để giảm khả năng ký nhầm điều khoản bất lợi.
 
 ---
 
@@ -373,13 +374,13 @@ vì [giá trị rõ nhất].
 
 ### Bản hypothesis của tôi
 
-> _______________________________________________  
-> _______________________________________________
+> Nếu chúng ta giúp người mua/thuê BĐS cá nhân đánh giá nghĩa vụ, mốc thời gian và điều khoản bất lợi tốt hơn ở bước Locate và Confirm, bằng cách dùng AI để trích điều khoản quan trọng, giải thích bằng ngôn ngữ thường, cảnh báo rủi ro và gợi ý câu hỏi cần làm rõ, thì họ sẽ chuyển từ tự đọc/hỏi môi giới/dùng AI tổng quát sang công cụ phân tích hợp đồng BĐS chuyên biệt, vì họ tiết kiệm thời gian và giảm nguy cơ ký khi chưa hiểu hết rủi ro.  
+> Với giao dịch giá trị lớn, sản phẩm không thay thế luật sư mà giúp người dùng chuẩn bị tốt hơn trước khi tham vấn pháp lý.
 
 ### Tín hiệu sớm nếu hypothesis này đúng
 
-1. _______________________________________________
-2. _______________________________________________
+1. Người dùng sẵn sàng tải hợp đồng thật hoặc bản đã ẩn thông tin cá nhân lên để kiểm tra trước khi ký.
+2. Sau khi xem kết quả, người dùng có thể nêu ít nhất 2-3 câu hỏi cụ thể để hỏi lại bên bán/chủ nhà/chủ đầu tư hoặc luật sư.
 
 ---
 
@@ -399,15 +400,15 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 | Assumption | Vì sao assumption này rủi ro? | Tôi đang có bằng chứng gì? | Cần validate bằng cách nào tiếp theo? |
 |---|---|---|---|
-| A1 | | | |
-| A2 | | | |
-| A3 | | | |
-| A4 | | | |
-| A5 | | | |
+| A1: Người mua/thuê cá nhân là job executor đúng | Nếu thực tế người quyết định luôn là luật sư, gia đình hoặc môi giới thì sản phẩm nên thiết kế cho nhóm khác | Quan sát từ mô tả dự án và thực tế nhiều người tự đọc hợp đồng trước khi ký | Phỏng vấn 5-7 người từng thuê/mua nhà để xem ai trực tiếp đọc và quyết định hỏi lại điều khoản |
+| A2: Pain đủ đau và xảy ra đủ thường xuyên | Nếu người dùng chỉ lướt qua rồi vẫn ký theo niềm tin, họ có thể không chủ động dùng sản phẩm | Hợp đồng dài và nhiều điều khoản về cọc, phạt, bàn giao thường gây lo lắng | Test landing/interview: hỏi tình huống gần nhất họ lo nhất ở hợp đồng là gì và đã làm gì |
+| A3: User sẽ đổi khỏi alternative hiện tại | Nếu hỏi môi giới/người quen hoặc ChatGPT tổng quát đã đủ tốt, sản phẩm khó tạo khác biệt | Alternatives hiện tại nhanh nhưng thiếu độ tin cậy và checklist chuyên ngành | Cho người dùng so sánh kết quả từ sản phẩm mẫu với cách họ đang làm |
+| A4: AI tạo giá trị thật ở bước Locate/Confirm | Nếu AI bỏ sót hoặc giải thích sai, sản phẩm tạo rủi ro ngược | AI có lợi thế đọc tài liệu dài, nhưng hợp đồng pháp lý cần độ chính xác cao | Dùng 10 hợp đồng mẫu, đo tỷ lệ phát hiện đúng điều khoản quan trọng và chất lượng giải thích |
+| A5: User đủ tin AI để đưa vào workflow thật | Nếu người dùng không tin, họ chỉ xem cho biết và vẫn không hành động | Người dùng đã quen dùng AI để đọc tài liệu, nhưng pháp lý là lĩnh vực nhạy cảm | Prototype có trích dẫn điều khoản gốc, disclaimer và khuyến nghị hỏi luật sư; đo mức tin và hành động sau khi xem |
 
 ### Assumption nguy hiểm nhất nếu tôi đang sai
 
-> _______________________________________________
+> User đủ tin kết quả AI để dùng làm cơ sở hỏi lại, đàm phán hoặc chuẩn bị trao đổi với luật sư trước khi ký. Nếu assumption này sai, sản phẩm có thể chỉ là công cụ tóm tắt thú vị nhưng không đi vào workflow quyết định thật.
 
 ---
 
@@ -431,9 +432,9 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 | Ý phản biện tôi nghe được | Nó chạm vào phần nào? | Tôi sẽ giữ / sửa gì? |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Không nên nói sản phẩm thay luật sư, nhất là với hợp đồng mua bán giá trị lớn | AI leverage point và product hypothesis | Giữ AI ở vai trò cảnh báo, giải thích, chuẩn bị câu hỏi; thêm khuyến nghị tham vấn pháp lý |
+| Lát cắt cả mua và thuê hơi rộng vì hai loại hợp đồng khác nhau | Project slice và job stories | Giữ chung ở mức "trước khi ký hợp đồng BĐS", nhưng dùng ví dụ riêng cho thuê và mua trong job stories |
+| Điểm đau không chỉ là đọc dài, mà là không biết điều khoản nào bất lợi | Core JTBD và JTBD map | Sửa trọng tâm từ "tóm tắt hợp đồng" sang "đánh giá nghĩa vụ, mốc thời gian và điều khoản bất lợi" |
 
 ---
 
@@ -441,52 +442,52 @@ Job story chưa có research vẫn chỉ là **giả thuyết tốt hơn**, chư
 
 ### Sau khi nghe phản biện, tôi thay đổi gì?
 
-- [ ] Giữ nguyên `job executor`
+- [x] Giữ nguyên `job executor`
 - [ ] Sửa `job executor`
-- [ ] Giữ nguyên `core JTBD`
+- [x] Giữ nguyên `core JTBD`
 - [ ] Sửa `core JTBD`
-- [ ] Giữ nguyên `AI leverage point`
+- [x] Giữ nguyên `AI leverage point`
 - [ ] Sửa `AI leverage point`
 - [ ] Giữ nguyên `product hypothesis`
-- [ ] Sửa `product hypothesis`
+- [x] Sửa `product hypothesis`
 
 ### Vì sao tôi giữ / sửa?
 
-> _______________________________________________  
-> _______________________________________________
+> Tôi giữ job executor và core JTBD vì người mua/thuê cá nhân vẫn là người trực tiếp chịu rủi ro trước khi ký.  
+> Tôi sửa nhẹ product hypothesis để nhấn mạnh sản phẩm không thay thế tư vấn pháp lý, mà giúp người dùng phát hiện rủi ro, hiểu điều khoản và chuẩn bị câu hỏi tốt hơn trước khi ký hoặc trước khi hỏi luật sư.
 
 ### Version cuối cùng tôi nộp
 
 **Job executor:**  
-> _______________________________________________
+> Người mua/thuê BĐS cá nhân trước khi ký hợp đồng.
 
 **Core JTBD:**  
-> _______________________________________________
+> Đánh giá các nghĩa vụ, mốc thời gian và điều khoản bất lợi trong hợp đồng BĐS trước khi quyết định ký.
 
 **2 bước đau nhất trong workflow:**  
-> _______________________________________________
+> Locate và Confirm: tìm đúng điều khoản quan trọng trong hợp đồng dài, rồi hiểu đúng rủi ro/hệ quả của các điều khoản đó.
 
 **AI leverage point chính:**  
-> _______________________________________________
+> AI đọc hợp đồng, trích điều khoản quan trọng, giải thích bằng ngôn ngữ thường, cảnh báo điểm bất lợi tiềm ẩn và gợi ý câu hỏi cần làm rõ trước khi ký.
 
 **Product hypothesis:**  
-> _______________________________________________
+> Nếu chúng ta giúp người mua/thuê BĐS cá nhân phát hiện và hiểu điều khoản rủi ro ở bước Locate/Confirm bằng AI có trích dẫn và cảnh báo rõ ràng, họ sẽ chuyển từ tự đọc/hỏi môi giới/dùng AI tổng quát sang công cụ chuyên biệt vì tiết kiệm thời gian, tự tin hỏi lại trước khi ký và giảm nguy cơ chịu nghĩa vụ bất lợi.
 
 **Assumption cần validate đầu tiên:**  
-> _______________________________________________
+> Người mua/thuê có đủ tin vào kết quả AI để dùng nó làm cơ sở hỏi lại, đàm phán hoặc chuẩn bị tham vấn pháp lý trước khi ký.
 
 ---
 
 ## Checklist trước khi nộp
 
-- [ ] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
-- [ ] Tôi đã phân biệt được `job executor` với buyer / influencer.
-- [ ] `Core JTBD` của tôi không nhét solution vào câu.
-- [ ] Tôi đã viết đủ 3 `job stories`.
-- [ ] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
-- [ ] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
-- [ ] Tôi đã ghi rõ `assumptions to validate`.
-- [ ] Tôi đã sửa version cuối sau khi share trong bàn.
+- [x] Tôi đã khoanh đúng 1 lát cắt cụ thể của dự án.
+- [x] Tôi đã phân biệt được `job executor` với buyer / influencer.
+- [x] `Core JTBD` của tôi không nhét solution vào câu.
+- [x] Tôi đã viết đủ 3 `job stories`.
+- [x] Tôi đã điền `JTBD lite map` và khoanh ra 2 bước đau nhất.
+- [x] Tôi đã chỉ ra `AI leverage point` thay vì nhảy thẳng vào feature list.
+- [x] Tôi đã ghi rõ `assumptions to validate`.
+- [x] Tôi đã sửa version cuối sau khi share trong bàn.
 
 ---
 
